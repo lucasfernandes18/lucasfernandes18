@@ -20,5 +20,6 @@
   <img align="center" alt="Html5-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Css3-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   
-  <img align="center" alt="Pac-Man Animation" src="https://github.com/lucasfernandes18/lucasfernandes18/blob/output/dist/pacman-contribution-graph.svg" height="250px" width="480px" />
+![Pac-Man eating my contributions](https://raw.githubusercontent.com/lucasfernandes/lucasfernandes/output/pacman-contribution-graph.svg)
+
 </div>
