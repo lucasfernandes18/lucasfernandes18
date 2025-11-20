@@ -20,6 +20,5 @@
   <img align="center" alt="Html5-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Css3-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   
-![Pac-Man eating my contributions](https://raw.githubusercontent.com/lucasfernandes/lucasfernandes/output/pacman-contribution-graph.svg)
-
+![Pac-Man eating my contributions](https://raw.githubusercontent.com/lucasfernandes18/lucasfernandes18/output/pacman-contribution-graph.svg)
 </div>
