@@ -14,11 +14,10 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java-stack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-  <img align="center" alt="Kotlin-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="Spring-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+  <img align="center" alt="Kotlin-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
   <img align="center" alt="Typescript-stack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Html5-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Css3-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   
-![Pac-Man eating my contributions](https://raw.githubusercontent.com/lucasfernandes18/lucasfernandes18/output/pacman-contribution-graph.svg)
+
 </div>
