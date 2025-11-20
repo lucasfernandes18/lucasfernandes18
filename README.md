@@ -1,22 +1,27 @@
-Olá! Meu nome é Lucas Fernandes
+<div align="center">
+  <h1> Oi meu nome é Lucas Fernandes </h1>
+</div>
 
-Sobre mim
-- 👨🏼‍💻 Backend
-- 👨🏼‍💻 Cursando Análise e Desenvolvimento de Sistemas 4/5
+<div align="center">
+  <h3>Sobre mim</h3>
+  <p>💡 Backend</p>
+  <p>💻 Cursando Análise e Desenvolvimento de Sistemas 4/5</p>
+</div>
 
-<div>
-<a href="https://github.com/lucasfernandes18">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfernandes18&layout=compact&langs_count=7&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lucasfernandes18&layout=compact&langs_count=7&theme=transparent"/>
+<div align="center">
+  <a href="https://github.com/lucasfernandes18">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfernandes18&layout=compact&langs_count=7&theme=transparent" />
+  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfernandes18&layout=compact&langs_count=7&theme=transparent" />
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  ![Pac-Man Animation](https://github.com/lucasfernandes18/lucasfernandes18/blob/output/dist/pacman-contribution-graph.svg)
+  <img align="center" alt="Java-stack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+  <img align="center" alt="Kotlin-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Spring-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+  <img align="center" alt="Typescript-stack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Html5-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="Css3-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+
+  <img align="center" alt="Pac-Man Animation" src="https://raw.githubusercontent.com/lucasfernandes18/lucasfernandes18/output/dist/pacman-contribution-graph.svg" height="250px" width="480px" />
 </div>
-  
