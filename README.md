@@ -1,11 +1,8 @@
-<div align="center">
-  <h1> Oi meu nome é Lucas Fernandes </h1>
-</div>
-
-<div align="center">
-  <h3>Sobre mim</h3>
-  <p>💡 Backend</p>
-  <p>💻 Cursando Análise e Desenvolvimento de Sistemas 4/5</p>
+<div align="">
+  <h1> Olá meu nome é Lucas Fernandes </h1>
+  <p>👨🏼‍💻Backend</p>
+  <p>👨🏼‍💻Cursando Análise e Desenvolvimento de Sistemas 4/5</p>
+ 
 </div>
 
 <div align="center">
@@ -22,6 +19,6 @@
   <img align="center" alt="Typescript-stack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Html5-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Css3-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-
-  <img align="center" alt="Pac-Man Animation" src="https://raw.githubusercontent.com/lucasfernandes18/lucasfernandes18/output/dist/pacman-contribution-graph.svg" height="250px" width="480px" />
+  
+  <img align="center" alt="Pac-Man Animation" src="https://github.com/lucasfernandes18/lucasfernandes18/blob/output/dist/pacman-contribution-graph.svg" height="250px" width="480px" />
 </div>
