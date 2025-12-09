@@ -1,23 +1,52 @@
-<div align="">
-  <h1> Olá meu nome é Lucas Fernandes </h1>
-  <p>👨🏼‍💻Backend</p>
-  <p>👨🏼‍💻Cursando Análise e Desenvolvimento de Sistemas 4/5</p>
- 
+<h1 align="left">Olá como vai?</h1>
+
+###
+
+<p align="left">Meu nome é Lucas Fernandes e eu sou  um desenvolvedor backend.</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">Essas são as tecnologias que domino</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-<div align="center">
-  <a href="https://github.com/lucasfernandes18">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfernandes18&layout=compact&langs_count=7&theme=transparent" />
+###
+
+<h4 align="left">Entre em contato</h4>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/lucas-fernandes-3826aa2b0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfernandes18&layout=compact&langs_count=7&theme=transparent" />
+  <a href="mailto:lucasfermagalhaes@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java-stack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-  <img align="center" alt="Kotlin-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
-  <img align="center" alt="Typescript-stack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Html5-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="Css3-stack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  
+###
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasfernandes18/lucasfernandes18/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasfernandes18/lucasfernandes18/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasfernandes18/lucasfernandes18/output/pacman-contribution-graph.svg">
+</picture>
+
+###
